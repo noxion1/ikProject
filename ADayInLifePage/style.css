@@ -1,0 +1,110 @@
+body {
+  background: url(http://getwallpapers.com/wallpaper/full/a/e/e/7532.jpg);
+}
+
+
+head{
+
+
+}
+
+
+
+#poes {
+   height: 200px;
+   width: 250px;
+}
+
+#poes:hover {
+   content: url('https://www.catster.com/wp-content/uploads/2018/07/Savannah-cat-long-body-shot.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#geld {
+   height: 200px;
+   width: 250px;
+}
+
+#geld:hover {
+   content: url('http://www.open.edu/openlearn/ocw/pluginfile.php/770507/mod_resource/content/0/db123_2_cover_image_1.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#game {
+   height: 200px;
+   width: 250px;
+}
+
+#game:hover {
+   content: url('https://www.geek.com/wp-content/uploads/2017/04/Call-of-Duty-Black-Ops-2-625x352.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#serie {
+   height: 200px;
+   width: 250px;
+}
+
+#serie:hover {
+   content: url('https://cnet4.cbsistatic.com/img/r_Zkychffg0yTuP6NGsGrwX8uOE=/1600x900/2017/11/13/23e2a5fa-33ea-452f-9c7c-7da16280a0ea/punisher-netflix-1.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#muziek {
+   height: 200px;
+   width: 250px;
+}
+
+#muziek:hover {
+   content: url('https://66.media.tumblr.com/fe8ac28163cb1b5fd0aad88f6bf90f4b/tumblr_p7b18oVqP01ravz9xo1_1280.png');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#sad {
+   height: 200px;
+   width: 250px;
+}
+
+#sad:hover {
+   content: url('https://i.warosu.org/data/biz/img/0088/18/1523245295093.png');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#bed {
+   height: 200px;
+   width: 250px;
+}
+
+#bed:hover {
+   content: url('http://06.aba-architects.com/wp-content/uploads/2018/05/adorable-carine-lansfield-gatsby-classic-black-bed-frame-carine-lansfield-gatsby-black-bed-frame-black-bed-frame-walmart-black-bed-frame-decorating-ideas_black-bed-frame_5484-250x200.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#cartoon {
+   height: 200px;
+   width: 250px;
+}
+
+#cartoon:hover {
+   content: url('cartoon2.png');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
+
+#cirkel {
+   height: 200px;
+   width: 250px;
+}
+
+#cirkel:hover {
+   content: url('https://image.shutterstock.com/mosaic_250/0/0/384291076.jpg');
+    width: [IMAGE_WIDTH_IN_PIXELS]px;
+    height: [IMAGE_HEIGHT_IN_PIXELS]px;
+}
